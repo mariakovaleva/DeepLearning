@@ -1,4 +1,16 @@
-# Ignore checkpoints folder #
-#############################
+# Ignored folders #
+###################
 
-/.ipynb_checkpoints
+**/.ipynb_checkpoints
+/exercises
+/books
+/__pycache__
+**/.udacity-pa
+**/__pycache__
+**/assets
+*.zip
+project-dog-classification/dogImages
+project-dog-classification/images
+project-dog-classification/lfw
+*.pt
+
