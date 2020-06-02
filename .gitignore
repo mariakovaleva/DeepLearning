@@ -14,3 +14,4 @@ project-dog-classification/images
 project-dog-classification/lfw
 *.pt
 
+*.p
